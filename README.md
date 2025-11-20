@@ -56,13 +56,5 @@ Dashboard con:
 - statistiche generali  
 - dettaglio macchina on click  
 
-### ⚙️ Architettura pulita e modulare
-- `/app` per routing moderno  
-- `/components` per UI riutilizzabile  
-- `/lib/db` per connessione Prisma  
-- `/api/machines/live` per simulazione telemetria  
 
----
-
-## 📂 Struttura del progetto
 
